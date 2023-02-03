@@ -126,3 +126,4 @@ require("console.table");
 
 // function - Delete a role
 
+// q: How do I start mySQL server?
